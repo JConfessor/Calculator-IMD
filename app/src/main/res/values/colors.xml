@@ -1,0 +1,9 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="colorGreenDark">#008000</color> <!-- Green color -->
+    <color name="colorYellow">#A4FFD500</color> <!-- Yellow color -->
+    <color name="colorRedDark">#8B0000</color> <!-- Dark red color -->
+</resources>
